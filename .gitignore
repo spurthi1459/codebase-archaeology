@@ -1,0 +1,12 @@
+.env
+venv/
+__pycache__/
+*.pyc
+test_repo/
+eval_results*.json
+
+check_model.py
+check_quota.py
+fix_question3.py
+fix_question4.py
+show_answers.py
